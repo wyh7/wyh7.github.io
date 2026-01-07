@@ -1,4 +1,4 @@
-- National ScholarShip , 2024.
+- **National ScholarShip, 2024**
 - **Special** **Scholarship，2024**
 - First Prize Scholarship, 2023
 - First Prize Scholarship, 2022
