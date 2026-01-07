@@ -1,5 +1,3 @@
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
 He is currently a Ph.D Student in the Department of Computer Science and Artificical Intelligence at Fudan University.
 
 #### Contact
