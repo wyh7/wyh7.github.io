@@ -1,0 +1,5 @@
+- **National ScholarShip, 2024**
+- **Special** **Scholarship，2024**
+- First Prize Scholarship, 2023
+- First Prize Scholarship, 2022
+- First Prize of the China Robot Competition and the China Regional Contest of the ROBCUP Robot World Cup，2023
