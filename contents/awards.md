@@ -1,5 +1,10 @@
 - **National ScholarShip, 2024**
-- **Special** **Scholarship，2024**
-- First Prize Scholarship, 2023
-- First Prize Scholarship, 2022
-- First Prize of the China Robot Competition and the China Regional Contest of the ROBCUP Robot World Cup，2023
+- **Special** **Scholarship， 2024**
+- First Prize Scholarship,  2023
+- First Prize Scholarship,  2022
+- First Prize of the China Robot Competition and the China Regional Contest of the ROBCUP Robot World Cup, 2023
+- MathorCup National Third Prize,  2023
+- APACM Third Prize,  2022
+- Second Prize of the National College Students' English Competition, 2022
+- Gold Prize of the Thirteenth "Challenge Cup" College Students' Entrepreneurship Plan Competition of Hubei Province, 2024
+- Gold Prize of the China International University Students' Innovation Competition in Hubei Province, 2024
